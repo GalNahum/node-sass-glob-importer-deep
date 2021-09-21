@@ -1,0 +1,26 @@
+{
+  "name": "node-sass-glob-importer-deep",
+  "version": "1.0.0",
+  "description": "Custom node-sass package importer that allow you to use deep glob syntax in node-sass imports.",
+  "main": "index.js",
+  "author": "Gal Nahum",
+  "license": "MIT",
+  "homepage": "https://github.com/GalNahum/node-sass-glob-importer-deep",
+  "keywords": [
+    "glob-importer",
+    "importer",
+    "node-sass",
+    "sass",
+    "deep"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GalNahum/node-sass-glob-importer-deep.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GalNahum/node-sass-glob-importer-deep/issues"
+  },
+  "dependencies": {
+    "node-sass-magic-importer": "^5.3.2"
+  }
+}
